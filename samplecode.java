@@ -20,3 +20,9 @@ reinit()
 
 getterminalcurrency()
 {}
+
+batchheaderfunction()
+{}
+
+batchtrailerfunction()
+{}
